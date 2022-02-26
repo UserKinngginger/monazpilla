@@ -1,1 +1,1 @@
-Name: autodiscover TTL: 3600 RR Type: CNAME Target:https://web.monazpilla.io
+web.monazpilla.io
